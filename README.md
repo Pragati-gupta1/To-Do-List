@@ -6,3 +6,9 @@ Uses:
 2. Task Organization: The To Do List provides flexible options for organizing tasks. 
 3. Task Assignment
 4. Progress Tracking: Users can easily track the progress of tasks within the To Do List.
+
+Tecnology Used:
+HTML
+CSS
+JavaScript
+BootStrap
